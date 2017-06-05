@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorBackStart">#6bdef5</color>
+    <color name="colorRed">#f21e06</color>
+
+    <color name="black_overlay">#66000000</color>
+    <color name="buttonAnswer">#0088ff</color>
+    <color name="textAnswer">#eff1f6</color>
+    <color name="txtAnswer">#000000</color>
+    <color name="levelsColor">#f9f1f1</color>
+    <color name="toolbarColor">#b16928ec</color>
+    <color name="starColor">#d1eef4</color>
+</resources>
